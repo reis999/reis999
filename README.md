@@ -17,7 +17,6 @@
 * 🎓 Recently graduated with a **B.Sc. in Computer Engineering**  
 * 🔭 Currently working on **personal projects**  
 * 🌱 Currently learning more about **Artificial Intelligence** and **Software Development**  
-* 📫 Reach me at: **[davidreis777@hotmail.com](mailto:davidreis777@hotmail.com)**
 
 ---
 
