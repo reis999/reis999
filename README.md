@@ -2,11 +2,11 @@
 <h3 align="center">B.Sc. in Computer Engineering @ IPVC ESTG</h3>
 
 <p align="center">
-  <a href="https://github.com/davidgreis?tab=followers">
-    <img src="https://img.shields.io/github/followers/davidgreis?label=Followers&style=social" alt="Followers">
+  <a href="https://github.com/reis999?tab=followers">
+    <img src="https://img.shields.io/github/followers/reis999?label=Followers&style=social" alt="Followers">
   </a>
-  <a href="https://komarev.com/ghpvc/?username=davidgreis">
-    <img src="https://komarev.com/ghpvc/?username=davidgreis&style=flat&color=blue" alt="Profile Views">
+  <a href="https://komarev.com/ghpvc/?username=reis999">
+    <img src="https://komarev.com/ghpvc/?username=reis999&style=flat&color=blue" alt="Profile Views">
   </a>
 </p>
 
@@ -101,7 +101,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davidgreis&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgreis&layout=compact&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidgreis&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reis999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reis999&layout=compact&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=reis999&theme=radical&hide_border=true" />
 </div>
