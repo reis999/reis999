@@ -97,11 +97,3 @@
 </details>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reis999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reis999&layout=compact&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=reis999&theme=radical&hide_border=true" />
-</div>
